@@ -41,3 +41,10 @@
     1. Site maps allow yout to planthe structure of a site. Card sorting helps identify the which information goes with each heading of the site map.
     1. Wireframe is a visual picture of what the web page will look like. Using blocks and descriptions to define the different blocks and where the navigational text will go.
     1. Visual hierarchy refers to the order in which your eyes perceive what they see. Size, color and style are keys in the visual hierarchy.    
+
+###### ABC Programming
+ - files extentsion in projects is .js
+ - The script element defines the specific file that is associated with the current web page. Ideally placed after the body element
+ - Flowcharts can guide you in design the JavaScript code using a functions.
+ - Variables are used to declare a value each of the value - ran only once if not contained withing a function
+ - Functions names are defined in () and the code associated with a function is defiend within the {} curly brackets 
