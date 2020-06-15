@@ -3,3 +3,6 @@
 ## This site is provide links to each of the reading notes assignments for the 201 course
 
 ### Table of Contents
+
+[Introductory HTML and JavaScript](class-01.md)
+
