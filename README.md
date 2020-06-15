@@ -1,8 +1,7 @@
-# Code 201 Reading Notes
+# Code 201 ***Reading Notes***
 
-## This site is provide links to each of the reading notes assignments for the 201 course
+## This web site provides *links* to each of the reading notes assignments for the 201 course
 
 ### Table of Contents
-
-[Introductory HTML and JavaScript](class-01.md)
+1.[Introductory HTML and J1a1vaScript](class-01.md)
 
