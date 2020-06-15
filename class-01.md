@@ -7,20 +7,20 @@
 1. ***Next*** the IP Address from DNS is returned to **computer** which allows the web browser to contact the **web server** that hosts the website.
 1. ***Next*** the web server sends the page you requested back to your web browser.
 ### HTML Structure - uses element tags to define an HTML structure of a page. Open tags <> and Ending tags </>
-* <html></html>, <head></head>, <body></body> are called element tags of the html page. Order matters: See below example
-* <html>
-*   <head>
-*   </head>
-*   <body>
-*   </body>
-* </html> 
+- <html></html>, <head></head>, <body></body> are called element tags of the html page. Order matters: See below example
+- <html>
+-   <head>
+-   </head>
+-   <body>
+-   </body>
+- </html> 
 #### Markup
-Which is the most current version of HTML
- 1. HTML 4 or HTML 5 - Answer: ______________   
- 1. Doctypes define the HTML or XML code being used for the web page (ie. <!DOCTYPE html>)
- 1. What is the correct way to add a comment: _____________.  (<!-- Comment goes here --> or )
- 1. What does this Escape Character represent &copy: or &#169: ________. 
- 1. Try another Escape Character: &cent: or &#162 ___________.
+**Which is the most current version of HTML**
+ 1. HTML 4 or HTML 5 - Answer: ____HTML 5__________.   
+ 1. Doctypes define the HTML or XML code being used for the web page (ie. (<!DOCTYPE html>))
+ 1. What is the correct way to add a comment: ___'<!-- Comment-->'__________. 
+ 1. What does this Escape Character represent &copy: or &#169: __Copywrite symbol ______. 
+ 1. Try another Escape Character: &cent: or &#162 ___Cent symbol________.
  * Block-level elements will appear to start on new line. Ex. <h1> Header 1, <p> Paragraph, <ul> Unordered list, <ol> Ordered list
- * Inlinw-Level elements will appear to continue on the same line. Ex. <a> Attribute, <b> Bold, <em> Emphasis, <img> Image 
+ * Inline-Level elements will appear to continue on the same line. Ex. <a> Attribute, <b> Bold, <em> Emphasis, <img> Image 
  * ID and Class Attributes are ways to identify a specific element or class of elements. Name must start with a letter or underscore
