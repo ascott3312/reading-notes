@@ -7,9 +7,9 @@
 > ***Next*** the IP Address from DNS is returned to **computer** which allows the web browser to contact the **web server** that hosts the website.
 > ***Next*** the web server sends the page you requested back to your web browser.
 ### HTML Structure - uses element tags to define an HTML structure of a page. Open tags <> and Ending tags </>
-|Tag Name | Purpose |
-|:-------------|:----------------------------------------------------------------------------------------------------------:|
-|<html></html> | Is the starting and ending element tag for a HTML page|
-|<head></head> | Defines the header for HTML page. Element defines the tab name, the top header description for the page.|
-|<body></body> | Defines the body of the page, The body elements are below the head and header element tags.|
+| Tag Name | Purpose |
+| :-: | :-: |
+| <html></html> | Is the starting and ending element tag for a HTML page|
+| <head></head> | Defines the header for HTML page. Element defines the tab name, the top header description for the page.|
+| <body></body> | Defines the body of the page, The body elements are below the head and header element tags.|
 
