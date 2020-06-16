@@ -6,18 +6,18 @@
 
 1. How many levels of headings does HMTL have? **Six**
 1. Html tags that begin with <p> represents what type of element? **Paragraph**
-1. In Html how define to bold a word or a group for words? **<b>** tag 
-1. How do create a subscript for chemical formula's? **H<sub>2</sub>O**
+1. In Html, how to apply bold to a word or a group for words? use the **b** tag 
+1. How do create a subscript for chemical formula's? sub tag element. ex. **H<sub>2</sub>O**
 1. ***White Space*** definition: When the browser comes accross two or more spaces next to each other, it only displays one space.
-1. Line Breaks **<br />** shows each paragraph or heading on a new line and Horizonatal Rules **<hr />** draws a horizonatal line between two topics, this type of tag is known as a empty element
+1. Line Breaks **br /** element shows each paragraph or heading on a new line and Horizonatal Rules **hr /** element draws a horizonatal line between two topics, this type of tag is known as a empty element
 1. The address element defines the author details for the page. 
 
 ## CSS Intro
 
 1.  A file with a file extension of .css represents a css file.
 1.  In the head tag of a html, the **link tag** defines where the path of the css file to be used for the htmtl page.
-1.  A css rule contains teo parts **a** selector and **b** a declaration. 
-1.  A selector idicates  which element the rule applies to.
+1.  A css rule contains teo parts **a.** selector and **b*.* a declaration. 
+1.  A selector idicates which element the rule applies to.
 1.  A declaration idicates how the elements referred to in the selector should be styled. Syntz: selector {delclaration} 
 1.  A property and a value, are separated by a colon and end with a semi-colon to end a specific property and value.
 1.  Instead of using a separate css file for styling, you can define in the head element a style tags to define the desired styling for the page. 
@@ -39,3 +39,11 @@
   - A variable can have different data types = numeric, string, or boolean.
   - An array is a special type of variable, it stores a list of values.
   - Expressions evaluate into a single value. Expressions rely on operators to calculate a value.
+  ##### Decisions and Operators
+  1. Flowarts can help when writing decisions loops.
+  1. Two components to a decision a. An expression is evaluated which returns a value b. A conditional statement says what to do in a given situation.
+  1. How many comparison operstors are there? **8** 
+  1. How many logical operators are there? **3**
+  1. Decisions using a comparison or logical operators evluate either to true or false to go to the next logical step
+  
+  
