@@ -39,7 +39,7 @@
   - A variable can have different data types = numeric, string, or boolean.
   - An array is a special type of variable, it stores a list of values.
   - Expressions evaluate into a single value. Expressions rely on operators to calculate a value.
-  ##### Decisions and Operators
+ ##### Decisions and Operators
   1. Flowarts can help when writing decisions loops.
   1. Two components to a decision a. An expression is evaluated which returns a value b. A conditional statement says what to do in a given situation.
   1. How many comparison operstors are there? **8** 
