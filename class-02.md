@@ -31,3 +31,11 @@
  -  Descendant - Matches an element that is a descendent of another specified element. ex - p a {}
  -  Adjacent sibling - Matches an element that is the next sibling of another. ex - h1+p {}
  -  General sibling - Matches an element that is a sibling of another. ex - h1~p {}
+
+ #### Basic JavaScript
+  - A script is made of a series of statements. Note end with a semi-colon. Use comments to deine what the script does.
+  - A script will use variables to store temporarily values. The data stored in a variable can change each time a script runs.
+  - In a script you must declare the variable with a name and a variable value. ending with a semi-colon.
+  - A variable can have different data types = numeric, string, or boolean.
+  - An array is a special type of variable, it stores a list of values.
+  - Expressions evaluate into a single value. Expressions rely on operators to calculate a value.
