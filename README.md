@@ -5,7 +5,7 @@
 
 ### Table of Contents
 1. [Introductory HTML and JavaScript](class-01.md)
-1. Next chapter
+1. [Basics of HTML, CSS & JS](class-02.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
