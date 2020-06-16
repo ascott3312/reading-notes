@@ -46,4 +46,11 @@
   1. How many logical operators are there? **3**
   1. Decisions using a comparison or logical operators evluate either to true or false to go to the next logical step
   
-  
+###### Git Comment Rules
+ 1. Separate subject from body with a blank line
+ 1. Limit the subject line to 50 characters
+ 1. Capitalize the subject line
+ 1. Do not end the subject line with a period
+ 1. Use the imperative mood in the subject line
+ 1. Wrap the body at 72 characters
+ 1. Use the body to explain what and why vs. how
