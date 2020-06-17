@@ -17,3 +17,25 @@
 
 #### Decisions and Loops
 
+ * A conditional statements used in code make decisions on which code it will do next.
+ * Comparasion operaters are used to compare two operands.
+    Examples:
+     * < less than
+     * > greater than
+     * = equal to
+     * != not equal
+     * <+ less than or equal to
+     * >= greater than or equal to
+  * Logical Operators   
+     * && And
+     * || Or
+     * ! Not
+  * Loops - Three kids of loops
+      ** For - a counter is used to defined on how many times the loop will run. (used a lot with arrays)
+      ** While - the loop will run unitl the condition is not longer true
+      *** Do - runs at least once even if the condition is not meant.
+      
+   1. If..Else - If the first condition is true then excutes the code associated with that true
+                 Else if the if condition is false than it will excute that code. Note Else IF is a nested IF Else statement,
+     
+
