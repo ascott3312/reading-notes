@@ -3,8 +3,8 @@
  1. Unorderd Lists - are lists that begin with a bullet point 
  1. Definition lists - are made up of a set of terms along withe definitions for each of those terms
 ## Lists
- - In HTML, a <ol></ol> represents which type of list? Answer: **Ordered Lists**
- - In HTML, a <ui></ul> represents which tyyp of list? Answer: **Unordered lists**
+ - In HTML, a ol tags represents which type of list? Answer: **Ordered Lists**
+ - In HTML, a ul tags represents which tyyp of list? Answer: **Unordered lists**
  - In HTML, a d1, dt, and dd tags are for defiing wihc list? Amswer: **Definition**
    (Nested lists contain lists within a list)
 ### Boxes
