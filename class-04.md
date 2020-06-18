@@ -13,4 +13,18 @@
    1. Liguid Layouts stretch and contract as the user increases or decreases the size of their browser.
    1. What is one of the most popular CSS frameworks? ***960.GS Grid***
    1. Multiple style sheets can use an import or link rules within CSS.
-   
+
+#### Functions
+   - Functions let you group a series of statements together to perform a specific task.
+   - The task indide the curly braces is known as a function declaration.
+   - Calling a function will excute the tasks inside the curly braces.
+   - Declaring function you give it parameters inside the function.
+   - Local variable vs Global, are stored temp while global are stored in memory while page is active in the web browser
+
+##### Pair Programming
+   1. Greater efficiency
+   1. Engaged collaboration
+   1. Learning from fellow students
+   1. Social skills
+   1. Job interview readiness
+   1. Work environment readiness
