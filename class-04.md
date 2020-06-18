@@ -28,3 +28,5 @@
    1. Social skills
    1. Job interview readiness
    1. Work environment readiness
+   
+   Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
