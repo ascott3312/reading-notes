@@ -7,7 +7,7 @@
 1. [Introductory HTML and JavaScript](class-01.md)
 1. [Basics of HTML, CSS & JS](class-02.md)
 1. [HTML Lists, Control Flow](class-03.md)
-1. Next chapter
+1. [HTML Links, JS Functions](class-04.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
