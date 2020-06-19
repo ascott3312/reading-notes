@@ -46,7 +46,7 @@ Also: you can use pseduo-classes to:
 ###### Text-decoration
  1. none - removes an decoration
  1. underline - text underline
- 1. overline - - text with a oveline
+ 1. overline - - text with a overline
  1. line-through - text line through the word
  1. blink - blink on and off
  
