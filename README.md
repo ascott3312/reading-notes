@@ -9,7 +9,7 @@
 1. [HTML Lists, Control Flow](class-03.md)
 1. [HTML Links, JS Functions](class-04.md)
 1. [Images, Color, Text](class-05.md)
-1. Next chapter
+1. [JS Scripts](class-06.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
