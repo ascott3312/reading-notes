@@ -10,7 +10,7 @@
 1. [HTML Links, JS Functions](class-04.md)
 1. [Images, Color, Text](class-05.md)
 1. [JS Objects](class-06.md)
-1. Next chapter
+1. [HTML Tables; JS Constructor Functions](class-07.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
