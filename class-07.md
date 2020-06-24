@@ -22,3 +22,22 @@ Here's some tips to follow when building your own domain models.
 1. Create instances using the new keyword followed by a call to a constructor function.
 1. Store the newly created object in a variable so you can access its properties and methods from outside.
 1. Use the this variable within methods so you can access the object's properties and methods from inside
+
+### Tables
+
+1. A table represents information with a grid format.
+1. Easch block in the grid is referred to as a table cell.
+1. HTML has the following tabs for a table a. table b. tr c. td. d.th.
+1. The table element is used to create the table.
+1. tr tag reprensents a table row.
+1. td tage represnents a table data
+1. th tage is either a heading for a column or a row in a table.
+
+####  Functions, Methods, and Objects
+1. Functions allow your to group set of related statements together
+1. Functions use parameters to retun a value
+1. An object is a series of variables and functions that repreents something in the real world.
+1. Object have variables known as properties of the object and functions are known as methods of an object.
+1. Web browsers implementobjects that repensent bothe browser window and the document loaded in the window.
+1. JavaScript also has many build in objects to help build methods and functions.
+1. Arrays and objects can be used to create completex data sets.
