@@ -12,7 +12,7 @@
 1. [JS Objects](class-06.md)
 1. [HTML Tables; JS Constructor Functions](class-07.md)
 1. [CSS Layouts](class-08.md)
-1. Next chapter
+1. [Forms and JS Events](class-09.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
