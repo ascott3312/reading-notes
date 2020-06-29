@@ -2,7 +2,7 @@
 1. Can you use an image as a background image? Yes by the backgtound-image setting in css. Exaple: body {background-image: url("images/pattern.gif");}
 1. It's important to have the background images have low contrast so the text can be seen well.
 
-## SEO (Search Engine Optimization
+## SEO (Search Engine Optimization)
 - Keywords are important to think about what users will use as search criteria when using a SEO like Google.
 - Title - The tab name of the websit or the Title you set up in MTML will be used in the search results.
 - Keywords can be in the following areas of website.
