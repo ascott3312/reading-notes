@@ -14,7 +14,7 @@
 1. [CSS Layouts](class-08.md)
 1. [Forms and JS Events](class-09.md)
 1. [Events](class-10.md)
-1. Next chapter
+1. [Images, SEO](class-11.md)
 1. Next chapter
 1. Next chapter
 1. Next chapter
