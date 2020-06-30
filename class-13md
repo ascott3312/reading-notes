@@ -1,0 +1,6 @@
+# Local Storage
+ 1.What we really want is:
+    a lot of storage space
+    b. on the client
+    c. that persists beyond a page refresh
+    d, isn’t transmitted to the server 
