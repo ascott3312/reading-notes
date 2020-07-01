@@ -17,7 +17,7 @@
 1. [Images, SEO](class-11.md)
 1. [Chart.js, Canvas](class-12.md)
 1. [Local Storage](class-13.md)
-1. Next chapter
+1. [Transitions](class=14.md)
 1. Next chapter
 1. Next chapter
 #### Class Notes
