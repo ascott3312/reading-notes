@@ -18,7 +18,7 @@
 1. [Chart.js, Canvas](class-12.md)
 1. [Local Storage](class-13.md)
 1. [Transitions](class=14.md)
-1. Next chapter
+1. [What Google Learned About Teams](class-15.md)
 1. Next chapter
 #### Class Notes
 
